@@ -1,4 +1,4 @@
-BRIAN-TECH 
+
 const { default: makeWASocket, useMultiFileAuthState, DisconnectReason } = require("@whiskeysockets/baileys")
 const P = require("pino")
 const qrcode = require("qrcode-terminal") // NEW
