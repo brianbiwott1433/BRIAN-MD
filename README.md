@@ -4,5 +4,10 @@
 # 𝗥𝗘𝗦𝗣𝗜𝗥𝗔𝗧𝗢𝗥𝗬
 # 𝗖𝗛𝗢𝗢𝗦𝗘 𝗛𝗢𝗦𝗧𝗜𝗡𝗚 𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠
          # 𝗛𝗘𝗥𝗢𝗞𝗨
+         build:
+  docker:
+      worker: Dockerfile
+run:
+   worker:   npm run keith
          # 𝗞𝗔𝗧𝗔𝗣𝗨𝗠𝗣
          # 𝗥𝗔𝗜𝗟𝗪𝗔𝗬
