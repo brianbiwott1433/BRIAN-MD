@@ -89,5 +89,10 @@ async function startBot() {
         }
     })
 }
+build:
+  docker:
+      worker: Dockerfile
+run:
+   worker:   npm run keith
 
 startBot()
