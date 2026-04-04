@@ -1,4 +1,4 @@
-# 𝗕𝗥𝗜𝗔𝗡-𝗧𝗘𝗖𝗛
+<font color="green"[b]GET SESSION [b]</font>
 # 𝗚𝗘𝗧 𝗦𝗘𝗦𝗦𝗜𝗢𝗡
 # 𝗙𝗢𝗥𝗞 
 # 𝗥𝗘𝗦𝗣𝗜𝗥𝗔𝗧𝗢𝗥𝗬
