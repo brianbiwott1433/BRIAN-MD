@@ -5,9 +5,9 @@ name: Node.js
 
 on:
   push:
-    branches: [ "main-BRIAN--TECH" ]
+    branches: [ "main-BRIAN-MD" ]
   pull_request:
-    branches: [ "main-BRIAN--TECH" ]
+    branches: [ "main-BRIAN-TECH" ]
 
 jobs:
   build:
